@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-008-design-and-manufacturing-ii-spring-2004/941187be3fc9ffd31a47b09248257983_04_polymer_1_6_f.pdf
+file: /media/courses/2-008-design-and-manufacturing-ii-spring-2004/941187be3fc9ffd31a47b09248257983_04_polymer_1_6_f.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 04_polymer_1_6_f.pdf
 uid: 941187be-3fc9-ffd3-1a47-b09248257983

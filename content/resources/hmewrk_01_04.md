@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-008-design-and-manufacturing-ii-spring-2004/4214798146ee7efaa444e27fb0857b65_hmewrk_01_04.pdf
+file: /media/courses/2-008-design-and-manufacturing-ii-spring-2004/4214798146ee7efaa444e27fb0857b65_hmewrk_01_04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hmewrk_01_04.pdf
 uid: 42147981-46ee-7efa-a444-e27fb0857b65
