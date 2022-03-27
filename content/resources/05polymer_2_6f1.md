@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 737ff3b1-dbdd-d788-a37a-5aa61e6653ee
 resourcetype: Document
 title: 05polymer_2_6f1.pdf
 uid: 4affb4ea-315d-9aaf-3b38-353bede9b660

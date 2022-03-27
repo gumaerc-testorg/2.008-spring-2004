@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bfb8b6d7-82b3-ea35-497e-7ff6e4936f10
 resourcetype: Document
 title: hmewrk_07_sol.pdf
 uid: 20c20839-c323-9ab4-9ec2-bce1ad543e25

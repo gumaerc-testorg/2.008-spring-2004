@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 98eb7c3c-ca6b-5792-babc-4cf96390a295
 resourcetype: Document
 title: labgrading.pdf
 uid: 9c494d74-faea-009d-b138-a9200156f898

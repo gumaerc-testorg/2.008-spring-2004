@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 737ff3b1-dbdd-d788-a37a-5aa61e6653ee
 resourcetype: Document
 title: 18manufact_sys2.pdf
 uid: 1105cd2f-8354-0c9c-625b-cd8372cc1aa8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 737ff3b1-dbdd-d788-a37a-5aa61e6653ee
 resourcetype: Document
 title: 10weldnjoin_6f.pdf
 uid: 75dc2a33-4db5-d645-7e39-46bc7b17b4a0

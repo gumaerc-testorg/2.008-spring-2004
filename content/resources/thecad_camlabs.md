@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 98eb7c3c-ca6b-5792-babc-4cf96390a295
 resourcetype: Document
 title: thecad_camlabs.pdf
 uid: 3cc67b31-4bd0-696a-aa74-3c878733d355

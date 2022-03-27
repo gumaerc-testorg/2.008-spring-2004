@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 737ff3b1-dbdd-d788-a37a-5aa61e6653ee
 resourcetype: Document
 title: 15quality.pdf
 uid: db9153bb-6a2c-1b57-a513-4687d886d303

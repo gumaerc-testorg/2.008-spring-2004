@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 737ff3b1-dbdd-d788-a37a-5aa61e6653ee
 resourcetype: Document
 title: 07cutting_1_6_f.pdf
 uid: 8e03b9cb-a8d4-eaab-d65d-f8e8baae93a7
