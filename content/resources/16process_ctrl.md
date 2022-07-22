@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2004/095ecf41d73275eacab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16process_ctrl.pdf
 uid: 095ecf41-d732-75ea-cab2-ee6e1393ed2a
 ---
 Slides for lecture presentation.
-

@@ -6,6 +6,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2004/9c494d74faea009db13
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: labgrading.pdf
 uid: 9c494d74-faea-009d-b138-a9200156f898
 ---
 Guidelines for grading Paperweight drawings, and drawings produced in the Yo-yo labs.
-

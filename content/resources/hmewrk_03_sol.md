@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2004/f22050dcaaad888ed46
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hmewrk_03_sol.pdf
 uid: f22050dc-aaad-888e-d467-df2cd4b889b3
 ---
 Solution for problem set.
-

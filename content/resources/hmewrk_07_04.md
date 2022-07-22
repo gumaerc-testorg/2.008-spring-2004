@@ -5,6 +5,7 @@ file: /courses/2-008-design-and-manufacturing-ii-spring-2004/a6b114d4fc54cc414d0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hmewrk_07_04.pdf
 uid: a6b114d4-fc54-cc41-4d0e-2f6c77ccc43e
 ---
 Problem set.
-
