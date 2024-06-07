@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for lecture presentation.
 file: /courses/2-008-design-and-manufacturing-ii-spring-2004/75dc2a334db5d6457e3946bc7b17b4a0_10weldnjoin_6f.pdf
+file_size: 1007913
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
