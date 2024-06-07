@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution for problem set.
 file: /courses/2-008-design-and-manufacturing-ii-spring-2004/073afd55fc83d5da2cf46af3e684c734_hmewrk_02_sol.pdf
+file_size: 441796
 file_type: application/pdf
 learning_resource_types:
 - Assignments

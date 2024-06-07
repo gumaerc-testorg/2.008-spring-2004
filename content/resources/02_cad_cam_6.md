@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for lecture presentation.
 file: /courses/2-008-design-and-manufacturing-ii-spring-2004/cc2fc3c68617bf8553274eb45184f65f_02_cad_cam_6.pdf
+file_size: 1401784
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
