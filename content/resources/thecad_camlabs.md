@@ -2,7 +2,7 @@
 content_type: resource
 description: Includes Lab I (Process Planning), Lab II (Mastercam Mill), and Lab III
   (CNC Mill & Lathe Machining).
-file: /courses/2-008-design-and-manufacturing-ii-spring-2004/3cc67b314bd0696aaa743c878733d355_thecad_camlabs.pdf
+file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2004/3cc67b314bd0696aaa743c878733d355_thecad_camlabs.pdf
 file_size: 125663
 file_type: application/pdf
 learning_resource_types:
