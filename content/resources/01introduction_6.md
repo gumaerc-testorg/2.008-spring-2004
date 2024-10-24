@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for the introductory lecture to this course.
-file: /courses/2-008-design-and-manufacturing-ii-spring-2004/40f6dd1d6b4494944eaae132d04e021e_01introduction_6.pdf
+file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2004/40f6dd1d6b4494944eaae132d04e021e_01introduction_6.pdf
 file_size: 370072
 file_type: application/pdf
 learning_resource_types:

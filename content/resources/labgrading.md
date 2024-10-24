@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines for grading Paperweight drawings, and drawings produced in
   the Yo-yo labs.
-file: /courses/2-008-design-and-manufacturing-ii-spring-2004/9c494d74faea009db138a9200156f898_labgrading.pdf
+file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2004/9c494d74faea009db138a9200156f898_labgrading.pdf
 file_size: 38326
 file_type: application/pdf
 learning_resource_types:
