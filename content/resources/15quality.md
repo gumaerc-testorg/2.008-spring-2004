@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for lecture presentation.
-file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2004/db9153bb6a2c1b57a5134687d886d303_15quality.pdf
+file: /courses/2-008-design-and-manufacturing-ii-spring-2004/db9153bb6a2c1b57a5134687d886d303_15quality.pdf
 file_size: 81061
 file_type: application/pdf
 learning_resource_types:
