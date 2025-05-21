@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution for problem set.
-file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2004/a48c3158670e0e9d8dde59dbcd10b01a_hmewrk_06_sol.pdf
+file: /courses/2-008-design-and-manufacturing-ii-spring-2004/a48c3158670e0e9d8dde59dbcd10b01a_hmewrk_06_sol.pdf
 file_size: 92573
 file_type: application/pdf
 learning_resource_types:
