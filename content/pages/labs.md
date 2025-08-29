@@ -3,7 +3,7 @@ content_type: page
 description: Lab exercises will introduce you to process planning and the tools and
   how to design and manufacture.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 98eb7c3c-ca6b-5792-babc-4cf96390a295

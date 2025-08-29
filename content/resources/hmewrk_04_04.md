@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/2-008-design-and-manufacturing-ii-spring-2004/aad6837d1889b0b509b99c87853b1f19_hmewrk_04_04.pdf
+file: /ol-ocw-studio-app/courses/2-008-design-and-manufacturing-ii-spring-2004/aad6837d1889b0b509b99c87853b1f19_hmewrk_04_04.pdf
 file_size: 53328
 file_type: application/pdf
 learning_resource_types:
